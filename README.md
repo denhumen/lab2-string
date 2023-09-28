@@ -1,2 +1,2 @@
 # lab2-string
-Creatin compilation system for custom string class implementation
+Creating compilation system for custom string class implementation
